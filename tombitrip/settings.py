@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     # local
     'blog',
     'user',
-    'direct',
+   
     'contact',
     'listvehicle',
     'home',

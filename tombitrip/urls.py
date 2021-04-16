@@ -12,7 +12,7 @@ urlpatterns = [
     path('',include("home.urls")),
     path('blog/',include("blog.urls")),
     path('user/',include("user.urls")),
-    path('direct/',include("direct.urls")),
+  
     path('contact/',include("contact.urls")),
     path('listvehicle/',include("listvehicle.urls")),
     path('ckeditor/',include('ckeditor_uploader.urls')),
